@@ -9,7 +9,7 @@
   <meta content="" name="description" />
 
   <!-- Favicon -->
-  <link href="/img/loder-logo.ico" rel="icon" />
+  <link href="/img/favicon-mtn.webp" rel="icon" />
 
   <!-- Google Web Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -34,7 +34,7 @@
 <body>
   <!-- Navbar Start -->
   <?php
-  include 'navbar.php'
+  include 'pages/navbar.php';
   ?>
   <!-- Navbar End -->
 
@@ -81,7 +81,7 @@
                 <i class="fa fa-home me-3"></i>
               </div>
               <h4>Adresse</h4>
-              <p>Hann Bel Air, Dakar - Sénégal </p>
+              <p>Dougar Route de Mbour - Sénégal </p>
             </div>
           </div>
         </div>
@@ -92,7 +92,8 @@
                 <i class="fa fa-phone-alt me-3"></i>
               </div>
               <h4>Téléphone</h4>
-              <p> (+221) 77 651 42 09 </p>
+              <p> (+221) 77 468 29 29 </p>
+              <p> (+221) 33 940 99 08 </p>
             </div>
           </div>
         </div>
@@ -103,7 +104,7 @@
                 <i class="fa fa-envelope me-3"></i>
               </div>
               <h4>Email</h4>
-              <p>azinnov2000@gmail.com</p>
+              <p>contact@minametransport.com</p>
             </div>
           </div>
         </div>
@@ -177,7 +178,7 @@
 
   <!-- footer Start -->
   <?php
-  include 'footer.php'
+  include 'pages/footer.php';
   ?>
   <!-- footer End -->
 

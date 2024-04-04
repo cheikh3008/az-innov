@@ -1,9 +1,9 @@
   <!-- Footer Start -->
   <div class="container-fluid bg-dark footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
-      <div class="container py-5">
+      <div class="container-fluid">
           <div class="row g-5">
               <div class="col-lg-3 col-md-6">
-                  <img src="/img/logo.png" width="150px" alt="Logo du site" style="margin-top: -40px;">
+                  <img src="/img/logo-mtn-trans.png" width="150px" alt="Logo du site" style="margin-top: -40px;">
                   <p>
                       Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat
                       ipsum et lorem et sit, sed stet lorem sit clita
@@ -13,14 +13,15 @@
               <div class="col-lg-3 col-md-6">
                   <h4 class="text-light mb-4">Addresse</h4>
                   <p>
-                      <i class="fa fa-map-marker-alt me-3"></i>Hann Bel Air, Dakar
+                      <i class="fa fa-map-marker-alt me-3"></i>Dougar Route Mbour, Sénégal
                   </p>
-                  <p><i class="fa fa-phone-alt me-3"></i> (+221) 77 651 42 09 </p>
-                  <p><i class="fa fa-envelope me-3"></i>azinnov2000@gmail.com</p>
+                  <p><i class="fa fa-phone-alt me-3"></i> (+221) 77 468 29 29 </p>
+                  <p><i class="fa fa-phone-alt me-3"></i> (+221) 33 940 99 08 </p>
+                  <p><i class="fa fa-envelope me-3"></i>contact@minametransport.com</p>
               </div>
               <div class="col-lg-3 col-md-6">
                   <h4 class="text-light mb-4">Liens Utiles</h4>
-                  <a class="btn btn-link" href="/pages/about.php">A propos de nous</a>
+                  <a class="btn btn-link" href="/pages/about.php">A propos</a>
                   <a class="btn btn-link" href="/pages/conatct.php">Nous contacter</a>
                   <a class="btn btn-link" href="/pages/realisation.php">Nos réalisations</a>
               </div>
@@ -38,10 +39,9 @@
           <div class="container">
               <div class="row">
                   <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                      &copy; <a href="/">Az Innov</a>, Tous droits réservés.
+                      &copy; <a href="/">MINAME TRANSPORT ET SERVICES</a>, Tous droits réservés.
                   </div>
                   <div class="col-md-6 text-center text-md-end">
-                      <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
                       Réalisé par <a href="https://awainformatique.com">Awa Informatique</a>
                   </div>
               </div>

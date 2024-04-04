@@ -9,7 +9,7 @@
   <meta content="" name="description" />
 
   <!-- Favicon -->
-  <link href="/img/loder-logo.ico" rel="icon" />
+  <link href="/img/favicon-mtn.webp" rel="icon" />
 
   <!-- Google Web Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -35,7 +35,7 @@
 
   <!-- Navbar Start -->
   <?php
-  include 'navbar.php'
+  include 'pages/navbar.php';
   ?>
   <!-- Navbar End -->
 
@@ -83,7 +83,7 @@
 
   <!-- footer Start -->
   <?php
-  include 'footer.php'
+  include 'pages/footer.php';
   ?>
   <!-- footer End -->
 

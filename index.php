@@ -3,13 +3,13 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>Accueil | Az Innov</title>
+  <title>Accueil | MINAME TRANSPORT ET SERVICES </title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport" />
   <meta content="" name="keywords" />
   <meta content="" name="description" />
 
   <!-- Favicon -->
-  <link href="/img/loder-logo.ico" rel="icon" />
+  <link href="/img/favicon-mtn.webp" rel="icon" />
 
   <!-- Google Web Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -22,7 +22,7 @@
 
   <!-- Libraries Stylesheet -->
   <link href="lib/animate/animate.min.css" rel="stylesheet" />
-  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet" />
+  <link href="lib/owlcarousel/assMINAME TRANSPORT ET SERVICES/owl.carousel.min.css" rel="stylesheet" />
 
   <!-- Customized Bootstrap Stylesheet -->
   <link href="css/bootstrap.min.css" rel="stylesheet" />
@@ -42,16 +42,16 @@
     <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="w-100" src="img/h2_hero.jpeg" alt="Image" />
+          <img class="w-100" src="img/baner-mts.jpeg" alt="Image" />
           <div class="carousel-caption">
             <div class="container">
               <div class="row justify-content-center">
                 <div class="col-12 col-lg-10">
                   <h5 class="text-light text-uppercase mb-3 animated slideInDown">
-                    Bienvenue chez Az Innov
+                    Bienvenue chez MINAME TRANSPORT ET SERVICES
                   </h5>
                   <h1 class="display-2 text-light mb-3 animated slideInDown">
-                    Une entreprise de construction et de rénovation
+                  Minane Transport : Des Services Logistiques de Pointe
                   </h1>
 
                   <a href="/pages/about.php" class="btn btn-primary py-3 px-5">En savoir plus</a>
@@ -68,7 +68,7 @@
               <div class="row justify-content-center">
                 <div class="col-12 col-lg-10">
                   <h5 class="text-light text-uppercase mb-3 animated slideInDown">
-                    Bienvenue chez Az Innov
+                    Bienvenue chez MINAME TRANSPORT ET SERVICES
                   </h5>
                   <h1 class="display-2 text-light mb-3 animated slideInDown">
                     Services professionnels de carrelage et de peinture
@@ -229,49 +229,49 @@
       <div class="row g-4 justify-content-center">
         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
           <div class="service-item bg-light overflow-hidden h-100">
-            <img class="img-fluid" src="img/service-1.jpg" alt="Imgae du site" />
+            <img class="img-fluid" src="https://placehold.co/600x400" alt="Imgae du site" />
             <div class="service-text position-relative text-center h-100 p-4">
-              <h5 class="mb-2">Batiment</h5>
+            <h5 class="mb-2">LOCATION - VENTE</h5>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
           <div class="service-item bg-light overflow-hidden h-100">
-            <img class="img-fluid" src="img/service-2.jpeg" alt="Imgae du site" />
+            <img class="img-fluid" src="https://placehold.co/600x400" alt="Imgae du site" />
             <div class="service-text position-relative text-center h-100 p-4">
-              <h5 class="mb-2">Carrelage</h5>
+              <h5 class="mb-2">LEVAGE ET MANUTENTION</h5>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
           <div class="service-item bg-light overflow-hidden h-100">
-            <img class="img-fluid" src="img/service-3.jpeg" alt="Imgae du site" />
+            <img class="img-fluid" src="https://placehold.co/600x400" alt="Imgae du site" />
             <div class="service-text position-relative text-center h-100 p-4">
-              <h5 class="mb-2">Travaux publics</h5>
+              <h5 class="mb-2">TRAVAUX PUBLICS</h5>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
           <div class="service-item bg-light overflow-hidden h-100">
-            <img class="img-fluid" src="img/service-4.jpg" alt="Imgae du site" />
+            <img class="img-fluid" src="https://placehold.co/600x400" alt="Imgae du site" />
             <div class="service-text position-relative text-center h-100 p-4">
-              <h5 class="mb-2">Peintures</h5>
+              <h5 class="mb-2">TERRASSEMENT</h5>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
           <div class="service-item bg-light overflow-hidden h-100">
-            <img class="img-fluid" src="img/service-5.jpg" alt="Imgae du site" />
+            <img class="img-fluid" src="https://placehold.co/600x400" alt="Imgae du site" />
             <div class="service-text position-relative text-center h-100 p-4">
-              <h5 class="mb-2">Construction metalique</h5>
+              <h5 class="mb-2">VOIRIE</h5>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
           <div class="service-item bg-light overflow-hidden h-100">
-            <img class="img-fluid" src="img/service-6.jpeg" alt="Imgae du site" />
+            <img class="img-fluid" src="https://placehold.co/600x400" alt="Imgae du site" />
             <div class="service-text position-relative text-center h-100 p-4">
-              <h5 class="mb-2">Electricité</h5>
+              <h5 class="mb-2">AMENAGEMENT</h5>
             </div>
           </div>
         </div>
